@@ -50,7 +50,7 @@ const employeesData = [
   {
     id: 7,
     firstName: 'tsgaye',
-    lastName: 'gebre medhn',
+    lastName: 'gebremedhn',
     email: 'gebre@example.com',
     salary: '90000',
     date: '2019-08-15'

@@ -4,7 +4,7 @@ function List({ employees, handleEdit, handleDelete }) {
 
     const formatter = new Intl.NumberFormat('en-US', {
         style: 'currency',
-        currency: 'Birr',
+        currency: 'USD',
         minimumFractionDigits: null
     });
 

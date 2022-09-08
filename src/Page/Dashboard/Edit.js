@@ -10,7 +10,7 @@ function Edit({ employees, selectedEmployee, setEmployees, setIsEditing }) {
     const [email, setEmail] = useState(selectedEmployee.email);
     const [salary, setSalary] = useState(selectedEmployee.salary);
     const [date, setDate] = useState(selectedEmployee.date);
-
+//
     const handleUpdate = e => {
         e.preventDefault();
 
